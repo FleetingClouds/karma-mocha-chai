@@ -3,6 +3,11 @@ karma-mocha-chai
 
 Skeleton setup for a bare project using karma with mocha and chai.
 
+## Prerequisites
+Ensure you have properly installed and in your PATH :
+1. Node.js and Node Package Manager (`npm`) 
+2. Grunt Command Line Interpreter (`grunt-cli`)
+
 ## Getting started
 1. clone the repository
    * *Note*: if you want to use this to kickstart a new project, you can use
