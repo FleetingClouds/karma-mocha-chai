@@ -9,7 +9,7 @@ describe("A test suite", function () {
 
     });
 
-    it('should fail', function () {
+    it('that should fail has', function () {
         expect(true).to.be.equal(false);
     });
 });
